@@ -1,0 +1,1 @@
+a bot to play snake game
